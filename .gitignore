@@ -1,0 +1,20 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+
+# HW-1 backup files
+app_hw1_backup.py
+requirements_hw1_backup.txt
